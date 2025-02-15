@@ -6,17 +6,7 @@
       telegram: @Ovalp1k
       [matrix]: @ovalp1k:converser.eu
 - 😄 Местоимения: oval, ovalpik, pik
-- ⚡ Интересный факт: Я пользуюсь Linux Ubuntu
-
-
-// apt moo
-//                      \_/ 
-//    m00h  (__)       -(_)- 
-//       \  ~Oo~___     / \
-//          (..)  |\        
-// ___________|_|_|_____________
-// ..."Have you mooed today?"...
-
+- ⚡ Интересный факт: Я пользуюсь Linux Ubuntu (apt moo)
 
 <!---
 Ovalpik/Ovalpik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
